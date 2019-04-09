@@ -1,1 +1,2 @@
-# bailey-harris-public-docs
+# bailey-harris-docs
+Bailey-Harris IT Documentation
